@@ -1,0 +1,27 @@
+{
+  "name": "clase46-be31000-lucasrodriguez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-rd/Clase46-BE31000-LucasRodriguez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-rd/Clase46-BE31000-LucasRodriguez/issues"
+  },
+  "homepage": "https://github.com/Lucas-rd/Clase46-BE31000-LucasRodriguez#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-router": "^12.0.0",
+    "mongoose": "^6.6.7"
+  }
+}
